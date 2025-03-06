@@ -1,0 +1,15 @@
+Tamil: https://github.com/AshokR/TamilNLP/blob/master/tamilnlp/Resources/TamilStopWords.txt
+English: https://github.com/stopwords-iso/stopwords-en
+German: https://github.com/stopwords-iso/stopwords-de
+Russian: https://github.com/stopwords-iso/stopwords-ru
+Italian: https://github.com/stopwords-iso/stopwords-it
+French: https://github.com/stopwords-iso/stopwords-fr
+Czech: https://github.com/stopwords-iso/stopwords-cs
+Spanish: https://github.com/stopwords-iso/stopwords-es
+Bengali: https://github.com/stopwords-iso/stopwords-bn
+Hindi: https://github.com/stopwords-iso/stopwords-hi
+Marathi: https://github.com/l3cube-pune/MarathiNLP/blob/main/aux_resources/marathi_stopwords.txt
+Gujarati: https://github.com/stopwords-iso/stopwords-gu
+Telugu: https://github.com/Xangis/extra-stopwords/blob/master/telugu
+Kannada: https://gist.github.com/MSDarshan91/f97c73435a3ab32a6638436231bf5616
+Punjabi: https://github.com/gurpejsingh13/Punjabi_Stopwords/blob/main/punjabi_stopwords.py
