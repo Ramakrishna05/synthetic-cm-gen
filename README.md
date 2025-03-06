@@ -1,5 +1,7 @@
 ## Synthetic Code-Mixed Corpus Generation using Word Alignments
-![alignment](alignment.png)
+<p align="center">
+  <image src="alignment.png"/>
+</p>
 
 This repo contains the code for generating synthetic code-mixed data from a given parallel corpus.  We follow [Matrix Language Frame model (MLF)](https://en.wikipedia.org/wiki/Code-switching#Matrix_language-frame_model) to generate the code-mixed data. The words in the source language (considered as the matrix language) are replaced with the target language (considered as the embedded language) words based on the word alignment information. The following three steps describe the data generation process:
 
