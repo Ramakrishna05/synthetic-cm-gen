@@ -1,7 +1,7 @@
 ## Synthetic Code-Mixed Corpus Generation using Word Alignments
 
 <figure class="image" align="center">
-  <img src="{{ alignment.png }}">
+  <img src="{{ https://github.com/Ramakrishna05/synthetic-cm-gen/blob/main/alignment.png }}">
   <figcaption>{{ Generating synthetic code-mixed Hinglish sentence from Hindi and English. }}</figcaption>
 </figure>
     
